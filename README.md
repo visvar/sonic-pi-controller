@@ -49,7 +49,7 @@ You will need:
 4. In Sonic Pi on the top right, open "prefs > I/O".
 5. The MIDI-ports list should contain the loopMIDI Port:
 
-   ![Sonic Pi MIDI port settings](./img/SonicPIMIDIPort.png)
+   ![Sonic Pi MIDI port settings](./img/sp_midi_port.png)
 
 6. In the configuration part of `controller-boilerplate.rb` you will find the declaration for the MIDI port:
     ```ruby
