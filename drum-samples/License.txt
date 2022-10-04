@@ -1,0 +1,3 @@
+All samples are under MIT License and can be found here:
+
+https://github.com/gleitz/midi-js-soundfonts/tree/0afbeb18c90ebaf9af2f44de18d628263b04a67a/FluidR3_GM/percussion-mp3

@@ -1,0 +1,47 @@
+.App {
+  min-height: 100vh;
+  background: rgb(40, 40, 40);
+  color: #e8e8e8;
+}
+
+header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+nav {
+  background: rgb(30, 30, 30);
+  height: 30px;
+  display: grid;
+  align-items: center;
+  color: #888;
+}
+
+nav a {
+  padding: 0 8px;
+  color: #eee;
+  text-decoration: none;
+  transition: 100ms;
+}
+
+nav a:hover {
+  color: steelblue;
+}
+
+.viewGrid {
+  padding: 20px;
+  row-gap: 50px;
+  column-gap: 20px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  justify-items: center;
+}
+
+span.MuiButton-label {
+  color: rgb(84, 160, 221);
+  padding: 0 10px;
+}

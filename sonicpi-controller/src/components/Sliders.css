@@ -1,0 +1,41 @@
+.Sliders {
+  width: 90%;
+  text-align: center;
+}
+.Sliders .label {
+  height: 25px;
+  pointer-events: none;
+  user-select: none;
+}
+
+.Sliders .editForm {
+  display: grid;
+  pointer-events: all;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+}
+
+.Sliders input {
+  width: 50%;
+  margin-left: 2px;
+  padding: 4px 4px 1px 4px;
+  text-align: center;
+  border: none;
+  border-bottom: 1px dashed #aaa;
+  font-size: 0.8em;
+  background: none;
+  color: #eee;
+}
+
+.Sliders .rangeInfo {
+  padding-left: 10px;
+  font-size: 0.8em;
+  color: #888;
+  pointer-events: none;
+  user-select: none;
+}
+
+.Sliders .currentValue {
+  width: 20px;
+  padding-left: 30px;
+  padding-right: 5px;
+}

@@ -1,0 +1,34 @@
+.Keyboard {
+  grid-column: span 2;
+  text-align: center;
+}
+
+.Keyboard svg rect {
+  cursor: pointer;
+  rx: 3;
+}
+
+.Keyboard svg text {
+  pointer-events: none;
+  user-select: none;
+  text-anchor: middle;
+  font-size: 10px;
+}
+
+.Keyboard svg .whiteKey {
+  stroke: #555555;
+  fill: #FFFFFF;
+  width: 30px;
+  height: 150px;
+}
+
+.Keyboard svg .blackKey {
+  stroke: #979797;
+  fill: #4B4B4B;
+  width: 18px;
+  height: 105px;
+}
+
+.Keyboard svg .blackKeyText {
+  fill: #ffffff;
+}

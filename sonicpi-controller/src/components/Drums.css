@@ -1,0 +1,15 @@
+.DrumKit {
+  grid-column: span 2;
+}
+
+.DrumKit svg path,
+.DrumKit svg ellipse {
+  cursor: pointer;
+}
+
+.DrumKit svg text {
+  font-size: 4px;
+  fill: white;
+  pointer-events: none;
+  user-select: none;
+}

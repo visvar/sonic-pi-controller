@@ -1,0 +1,12 @@
+.Pad {
+  width: 90%;
+  max-width: 600px;
+  text-align: center;
+}
+
+.Pad .grid {
+  width: 100%;
+  aspect-ratio: 1/1;
+  display: grid;
+  gap: 10px;
+}
