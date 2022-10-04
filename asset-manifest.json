@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sonic-pi-controller/static/css/main.74a65fcd.css",
+    "main.js": "/sonic-pi-controller/static/js/main.0c586111.js",
+    "index.html": "/sonic-pi-controller/index.html",
+    "main.74a65fcd.css.map": "/sonic-pi-controller/static/css/main.74a65fcd.css.map",
+    "main.0c586111.js.map": "/sonic-pi-controller/static/js/main.0c586111.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74a65fcd.css",
+    "static/js/main.0c586111.js"
+  ]
+}
